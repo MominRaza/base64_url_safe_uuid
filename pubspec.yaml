@@ -1,14 +1,13 @@
 name: base64_url_safe_uuid
-description: A starting point for Dart libraries or applications.
+description: A library to generate base64 url safe UUIDs.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/MominRaza/base64_url_safe_uuid
 
 environment:
   sdk: ^3.4.3
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  uuid: ^4.4.2
 
 dev_dependencies:
   lints: ^4.0.0
