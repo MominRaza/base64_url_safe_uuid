@@ -1,6 +1,6 @@
 # Base64 Url Safe UUID
 
-A Dart package that generates a base64 url safe UUID.
+A library for generating v4 UUIDs and encoding them into 22 character base64 URL-safe slug representation (based on [RFC4648 sec5](https://datatracker.ietf.org/doc/html/rfc4648#section-5)).
 
 ## Features
 
